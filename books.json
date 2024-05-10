@@ -1,0 +1,27 @@
+[
+    {
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "genero": "Realismo mágico",
+      "descripcion": "Una saga familiar que narra la historia de Macondo y los Buendía a lo largo de varias generaciones, mezclando lo real con lo fantástico."
+    },
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "genero": "Ciencia ficción",
+      "descripcion": "Una distopía que presenta un mundo totalitario en el que el gobierno controla todos los aspectos de la vida de las personas, incluyendo el pensamiento."
+    },
+    {
+      "titulo": "El principito",
+      "autor": "Antoine de Saint-Exupéry",
+      "genero": "Literatura infantil",
+      "descripcion": "Una fábula sobre la amistad y el sentido de la vida, contada a través de las aventuras de un joven príncipe que viaja por diferentes planetas."
+    },
+    {
+      "titulo": "Harry Potter y la piedra filosofal",
+      "autor": "J.K. Rowling",
+      "genero": "Fantasía",
+      "descripcion": "La primera entrega de la saga de Harry Potter, que sigue las aventuras del joven mago en el mundo mágico mientras asiste a Hogwarts."
+    }
+  ]
+  
